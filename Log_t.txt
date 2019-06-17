@@ -1,0 +1,6590 @@
+当前工作时间节点：0
+Move:  0 ->  0 UpDown:  0 
+DelayS: 28  On:  0 
+当前工作时间节点：28
+Move:  0 ->  1 UpDown:  1 
+DelayS: 31  On:  1 
+当前工作时间节点：59
+Move:  1 ->  2 UpDown:  1 
+DelayS: 48  On:  2 
+当前工作时间节点：107
+Move:  2 ->  3 UpDown:  1 
+DelayS: 31  On:  3 
+当前工作时间节点：138
+Move:  3 ->  4 UpDown:  1 
+DelayS: 48  On:  4 
+当前工作时间节点：186
+Move:  4 ->  5 UpDown:  1 
+DelayS: 31  On:  5 
+当前工作时间节点：217
+Move:  5 ->  6 UpDown:  1 
+DelayS: 48  On:  6 
+当前工作时间节点：265
+Move:  6 ->  7 UpDown:  1 
+DelayS: 31  On:  7 
+当前工作时间节点：296
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：588
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：0
+Move:  0 ->  0 UpDown:  0 
+DelayS: 28  On:  0 
+当前工作时间节点：28
+Move:  0 ->  1 UpDown:  1 
+DelayS: 31  On:  1 
+当前工作时间节点：59
+Move:  1 ->  2 UpDown:  1 
+DelayS: 48  On:  2 
+当前工作时间节点：107
+Move:  2 ->  3 UpDown:  1 
+DelayS: 31  On:  3 
+当前工作时间节点：138
+Move:  3 ->  4 UpDown:  1 
+DelayS: 48  On:  4 
+当前工作时间节点：186
+Move:  4 ->  5 UpDown:  1 
+DelayS: 31  On:  5 
+当前工作时间节点：217
+Move:  5 ->  6 UpDown:  1 
+DelayS: 48  On:  6 
+当前工作时间节点：265
+Move:  6 ->  7 UpDown:  1 
+DelayS: 31  On:  7 
+当前工作时间节点：296
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：588
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：0
+Move:  0 ->  0 UpDown:  0 
+DelayS: 28  On:  0 
+当前工作时间节点：28
+Move:  0 ->  1 UpDown:  1 
+DelayS: 31  On:  1 
+当前工作时间节点：59
+Move:  1 ->  2 UpDown:  1 
+DelayS: 48  On:  2 
+当前工作时间节点：107
+Move:  2 ->  3 UpDown:  1 
+DelayS: 31  On:  3 
+当前工作时间节点：138
+Move:  3 ->  4 UpDown:  1 
+DelayS: 48  On:  4 
+当前工作时间节点：186
+Move:  4 ->  5 UpDown:  1 
+DelayS: 31  On:  5 
+当前工作时间节点：217
+Move:  5 ->  6 UpDown:  1 
+DelayS: 48  On:  6 
+当前工作时间节点：265
+Move:  6 ->  7 UpDown:  1 
+DelayS: 31  On:  7 
+当前工作时间节点：296
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：588
+Move:  0 ->  0 UpDown:  1 
+DelayS: 31  On:  0 
+当前工作时间节点：619
+DelayS: 22  On:  0 
+当前工作时间节点：641
+Move:  0 ->  1 UpDown:  1 
+DelayS: 26  On:  1 
+当前工作时间节点：667
+DelayS: 30  On:  1 
+当前工作时间节点：697
+Move:  1 ->  2 UpDown:  1 
+DelayS:  1  On:  2 
+当前工作时间节点：698
+DelayS: 48  On:  2 
+当前工作时间节点：746
+DelayS: 24  On:  2 
+当前工作时间节点：770
+Move:  2 ->  3 UpDown:  1 
+DelayS:  7  On:  3 
+当前工作时间节点：777
+DelayS: 48  On:  3 
+当前工作时间节点：825
+DelayS:  1  On:  3 
+当前工作时间节点：826
+Move:  3 ->  4 UpDown:  1 
+DelayS: 30  On:  4 
+当前工作时间节点：856
+DelayS: 43  On:  4 
+当前工作时间节点：899
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：955
+Move:  5 ->  6 UpDown:  1 
+DelayS: 73  On:  6 
+当前工作时间节点：1028
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：1084
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：1201
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：1254
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：1257
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：1313
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：1330
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：1386
+DelayS: 17  On:  2 
+当前工作时间节点：1403
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：1459
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：1515
+DelayS: 17  On:  4 
+当前工作时间节点：1532
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：1588
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：1644
+DelayS: 17  On:  6 
+当前工作时间节点：1661
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：1717
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：1814
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：1867
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：1873
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：1929
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：1963
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：2019
+DelayS: 17  On:  2 
+当前工作时间节点：2036
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：2092
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：2148
+DelayS: 17  On:  4 
+当前工作时间节点：2165
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：2221
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：2277
+DelayS: 17  On:  6 
+当前工作时间节点：2294
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：2350
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：2427
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：2480
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：2489
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：2545
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：2596
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：2652
+DelayS: 17  On:  2 
+当前工作时间节点：2669
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：2725
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：2781
+DelayS: 17  On:  4 
+当前工作时间节点：2798
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：2854
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：2910
+DelayS: 17  On:  6 
+当前工作时间节点：2927
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：2983
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：3040
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：3093
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：3105
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：3161
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：3229
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：3285
+DelayS: 17  On:  2 
+当前工作时间节点：3302
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：3358
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：3414
+DelayS: 17  On:  4 
+当前工作时间节点：3431
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：3487
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：3543
+DelayS: 17  On:  6 
+当前工作时间节点：3560
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：3616
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：3653
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：3706
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：3721
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：3777
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：3862
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：3918
+DelayS: 17  On:  2 
+当前工作时间节点：3935
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：3991
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：4047
+DelayS: 17  On:  4 
+当前工作时间节点：4064
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：4120
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：4176
+DelayS: 17  On:  6 
+当前工作时间节点：4193
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：4249
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：4266
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：4319
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：4337
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：4393
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：4495
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：4551
+DelayS: 17  On:  2 
+当前工作时间节点：4568
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：4624
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：4680
+DelayS: 17  On:  4 
+当前工作时间节点：4697
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：4753
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：4809
+DelayS: 17  On:  6 
+当前工作时间节点：4826
+Move:  6 ->  7 UpDown:  1 
+DelayS: 53  On:  7 
+当前工作时间节点：4879
+DelayS:  3  On:  7 
+当前工作时间节点：4882
+Move:  7 ->  0 UpDown:  1 
+DelayS: 71  On:  0 
+当前工作时间节点：4953
+DelayS: 28  On:  0 
+当前工作时间节点：4981
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：5037
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：5128
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：5184
+DelayS: 17  On:  2 
+当前工作时间节点：5201
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：5257
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：5313
+DelayS: 17  On:  4 
+当前工作时间节点：5330
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：5386
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：5442
+DelayS: 17  On:  6 
+当前工作时间节点：5459
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：5515
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：5541
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：5594
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：5597
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：5653
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：5761
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：5817
+DelayS: 17  On:  2 
+当前工作时间节点：5834
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：5890
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：5946
+DelayS: 17  On:  4 
+当前工作时间节点：5963
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：6019
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：6075
+DelayS: 17  On:  6 
+当前工作时间节点：6092
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：6148
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：6154
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：6207
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：6213
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：6269
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：6394
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：6450
+DelayS: 17  On:  2 
+当前工作时间节点：6467
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：6523
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：6579
+DelayS: 17  On:  4 
+当前工作时间节点：6596
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：6652
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：6708
+DelayS: 17  On:  6 
+当前工作时间节点：6725
+Move:  6 ->  7 UpDown:  1 
+DelayS: 42  On:  7 
+当前工作时间节点：6767
+DelayS: 14  On:  7 
+当前工作时间节点：6781
+Move:  7 ->  0 UpDown:  1 
+DelayS: 48  On:  0 
+当前工作时间节点：6829
+DelayS: 51  On:  0 
+当前工作时间节点：6880
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：6936
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：7027
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：7083
+DelayS: 17  On:  2 
+当前工作时间节点：7100
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：7156
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：7212
+DelayS: 17  On:  4 
+当前工作时间节点：7229
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：7285
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：7341
+DelayS: 17  On:  6 
+当前工作时间节点：7358
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：7414
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：7440
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：7493
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：7496
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：7552
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：7660
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：7716
+DelayS: 17  On:  2 
+当前工作时间节点：7733
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：7789
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：7845
+DelayS: 17  On:  4 
+当前工作时间节点：7862
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：7918
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：7974
+DelayS: 17  On:  6 
+当前工作时间节点：7991
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：8047
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：8053
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：8106
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：8112
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：8168
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：8293
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：8349
+DelayS: 17  On:  2 
+当前工作时间节点：8366
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：8422
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：8478
+DelayS: 17  On:  4 
+当前工作时间节点：8495
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：8551
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：8607
+DelayS: 17  On:  6 
+当前工作时间节点：8624
+Move:  6 ->  7 UpDown:  1 
+DelayS: 42  On:  7 
+当前工作时间节点：8666
+DelayS: 14  On:  7 
+当前工作时间节点：8680
+Move:  7 ->  0 UpDown:  1 
+DelayS: 48  On:  0 
+当前工作时间节点：8728
+DelayS: 51  On:  0 
+当前工作时间节点：8779
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：8835
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：8926
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：8982
+DelayS: 17  On:  2 
+当前工作时间节点：8999
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：9055
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：9111
+DelayS: 17  On:  4 
+当前工作时间节点：9128
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：9184
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：9240
+DelayS: 17  On:  6 
+当前工作时间节点：9257
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：9313
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：9339
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：9392
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：9395
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：9451
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：9559
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：9615
+DelayS: 17  On:  2 
+当前工作时间节点：9632
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：9688
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：9744
+DelayS: 17  On:  4 
+当前工作时间节点：9761
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：9817
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：9873
+DelayS: 17  On:  6 
+当前工作时间节点：9890
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：9946
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：9952
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：10005
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：10011
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：10067
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：10192
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：10248
+DelayS: 17  On:  2 
+当前工作时间节点：10265
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：10321
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：10377
+DelayS: 17  On:  4 
+当前工作时间节点：10394
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：10450
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：10506
+DelayS: 17  On:  6 
+当前工作时间节点：10523
+Move:  6 ->  7 UpDown:  1 
+DelayS: 42  On:  7 
+当前工作时间节点：10565
+DelayS: 14  On:  7 
+当前工作时间节点：10579
+Move:  7 ->  0 UpDown:  1 
+DelayS: 48  On:  0 
+当前工作时间节点：10627
+DelayS: 51  On:  0 
+当前工作时间节点：10678
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：10734
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：10825
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：10881
+DelayS: 17  On:  2 
+当前工作时间节点：10898
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：10954
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：11010
+DelayS: 17  On:  4 
+当前工作时间节点：11027
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：11083
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：11139
+DelayS: 17  On:  6 
+当前工作时间节点：11156
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：11212
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：11238
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：11291
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：11294
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：11350
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：11458
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：11514
+DelayS: 17  On:  2 
+当前工作时间节点：11531
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：11587
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：11643
+DelayS: 17  On:  4 
+当前工作时间节点：11660
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：11716
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：11772
+DelayS: 17  On:  6 
+当前工作时间节点：11789
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：11845
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：11851
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：11904
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：11910
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：11966
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：12091
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：12147
+DelayS: 17  On:  2 
+当前工作时间节点：12164
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：12220
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：12276
+DelayS: 17  On:  4 
+当前工作时间节点：12293
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：12349
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：12405
+DelayS: 17  On:  6 
+当前工作时间节点：12422
+Move:  6 ->  7 UpDown:  1 
+DelayS: 42  On:  7 
+当前工作时间节点：12464
+DelayS: 14  On:  7 
+当前工作时间节点：12478
+Move:  7 ->  0 UpDown:  1 
+DelayS: 48  On:  0 
+当前工作时间节点：12526
+DelayS: 51  On:  0 
+当前工作时间节点：12577
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：12633
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：12724
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：12780
+DelayS: 17  On:  2 
+当前工作时间节点：12797
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：12853
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：12909
+DelayS: 17  On:  4 
+当前工作时间节点：12926
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：12982
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：13038
+DelayS: 17  On:  6 
+当前工作时间节点：13055
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：13111
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：13137
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：13190
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：13193
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：13249
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：13357
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：13413
+DelayS: 17  On:  2 
+当前工作时间节点：13430
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：13486
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：13542
+DelayS: 17  On:  4 
+当前工作时间节点：13559
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：13615
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：13671
+DelayS: 17  On:  6 
+当前工作时间节点：13688
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：13744
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：13750
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：13803
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：13809
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：13865
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：13990
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：14046
+DelayS: 17  On:  2 
+当前工作时间节点：14063
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：14119
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：14175
+DelayS: 17  On:  4 
+当前工作时间节点：14192
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：14248
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：14304
+DelayS: 17  On:  6 
+当前工作时间节点：14321
+Move:  6 ->  7 UpDown:  1 
+DelayS: 42  On:  7 
+当前工作时间节点：14363
+DelayS: 14  On:  7 
+当前工作时间节点：14377
+Move:  7 ->  0 UpDown:  1 
+DelayS: 48  On:  0 
+当前工作时间节点：14425
+DelayS: 51  On:  0 
+当前工作时间节点：14476
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：14532
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：14623
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：14679
+DelayS: 17  On:  2 
+当前工作时间节点：14696
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：14752
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：14808
+DelayS: 17  On:  4 
+当前工作时间节点：14825
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：14881
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：14937
+DelayS: 17  On:  6 
+当前工作时间节点：14954
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：15010
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：15036
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：15089
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：15092
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：15148
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：15256
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：15312
+DelayS: 17  On:  2 
+当前工作时间节点：15329
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：15385
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：15441
+DelayS: 17  On:  4 
+当前工作时间节点：15458
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：15514
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：15570
+DelayS: 17  On:  6 
+当前工作时间节点：15587
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：15643
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：15649
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：15702
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：15708
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：15764
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：15889
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：15945
+DelayS: 17  On:  2 
+当前工作时间节点：15962
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：16018
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：16074
+DelayS: 17  On:  4 
+当前工作时间节点：16091
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：16147
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：16203
+DelayS: 17  On:  6 
+当前工作时间节点：16220
+Move:  6 ->  7 UpDown:  1 
+DelayS: 42  On:  7 
+当前工作时间节点：16262
+DelayS: 14  On:  7 
+当前工作时间节点：16276
+Move:  7 ->  0 UpDown:  1 
+DelayS: 48  On:  0 
+当前工作时间节点：16324
+DelayS: 51  On:  0 
+当前工作时间节点：16375
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：16431
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：16522
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：16578
+DelayS: 17  On:  2 
+当前工作时间节点：16595
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：16651
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：16707
+DelayS: 17  On:  4 
+当前工作时间节点：16724
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：16780
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：16836
+DelayS: 17  On:  6 
+当前工作时间节点：16853
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：16909
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：16935
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：16988
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：16991
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：17047
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：17155
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：17211
+DelayS: 17  On:  2 
+当前工作时间节点：17228
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：17284
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：17340
+DelayS: 17  On:  4 
+当前工作时间节点：17357
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：17413
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：17469
+DelayS: 17  On:  6 
+当前工作时间节点：17486
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：17542
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：17548
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：17601
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：17607
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：17663
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：17788
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：17844
+DelayS: 17  On:  2 
+当前工作时间节点：17861
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：17917
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：17973
+DelayS: 17  On:  4 
+当前工作时间节点：17990
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：18046
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：18102
+DelayS: 17  On:  6 
+当前工作时间节点：18119
+Move:  6 ->  7 UpDown:  1 
+DelayS: 42  On:  7 
+当前工作时间节点：18161
+DelayS: 14  On:  7 
+当前工作时间节点：18175
+Move:  7 ->  0 UpDown:  1 
+DelayS: 48  On:  0 
+当前工作时间节点：18223
+DelayS: 51  On:  0 
+当前工作时间节点：18274
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：18330
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：18421
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：18477
+DelayS: 17  On:  2 
+当前工作时间节点：18494
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：18550
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：18606
+DelayS: 17  On:  4 
+当前工作时间节点：18623
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：18679
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：18735
+DelayS: 17  On:  6 
+当前工作时间节点：18752
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：18808
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：18834
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：18887
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：18890
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：18946
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：19054
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：19110
+DelayS: 17  On:  2 
+当前工作时间节点：19127
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：19183
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：19239
+DelayS: 17  On:  4 
+当前工作时间节点：19256
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：19312
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：19368
+DelayS: 17  On:  6 
+当前工作时间节点：19385
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：19441
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：19447
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：19500
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：19506
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：19562
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：19687
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：19743
+DelayS: 17  On:  2 
+当前工作时间节点：19760
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：19816
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：19872
+DelayS: 17  On:  4 
+当前工作时间节点：19889
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：19945
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：20001
+DelayS: 17  On:  6 
+当前工作时间节点：20018
+Move:  6 ->  7 UpDown:  1 
+DelayS: 42  On:  7 
+当前工作时间节点：20060
+DelayS: 14  On:  7 
+当前工作时间节点：20074
+Move:  7 ->  0 UpDown:  1 
+DelayS: 48  On:  0 
+当前工作时间节点：20122
+DelayS: 51  On:  0 
+当前工作时间节点：20173
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：20229
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：20320
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：20376
+DelayS: 17  On:  2 
+当前工作时间节点：20393
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：20449
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：20505
+DelayS: 17  On:  4 
+当前工作时间节点：20522
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：20578
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：20634
+DelayS: 17  On:  6 
+当前工作时间节点：20651
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：20707
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：20733
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：20786
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：20789
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：20845
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：20953
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：21009
+DelayS: 17  On:  2 
+当前工作时间节点：21026
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：21082
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：21138
+DelayS: 17  On:  4 
+当前工作时间节点：21155
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：21211
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：21267
+DelayS: 17  On:  6 
+当前工作时间节点：21284
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：21340
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：21346
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：21399
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：21405
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：21461
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：21586
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：21642
+DelayS: 17  On:  2 
+当前工作时间节点：21659
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：21715
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：21771
+DelayS: 17  On:  4 
+当前工作时间节点：21788
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：21844
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：21900
+DelayS: 17  On:  6 
+当前工作时间节点：21917
+Move:  6 ->  7 UpDown:  1 
+DelayS: 42  On:  7 
+当前工作时间节点：21959
+DelayS: 14  On:  7 
+当前工作时间节点：21973
+Move:  7 ->  0 UpDown:  1 
+DelayS: 48  On:  0 
+当前工作时间节点：22021
+DelayS: 51  On:  0 
+当前工作时间节点：22072
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：22128
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：22219
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：22275
+DelayS: 17  On:  2 
+当前工作时间节点：22292
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：22348
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：22404
+DelayS: 17  On:  4 
+当前工作时间节点：22421
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：22477
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：22533
+DelayS: 17  On:  6 
+当前工作时间节点：22550
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：22606
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：22632
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：22685
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：22688
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：22744
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：22852
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：22908
+DelayS: 17  On:  2 
+当前工作时间节点：22925
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：22981
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：23037
+DelayS: 17  On:  4 
+当前工作时间节点：23054
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：23110
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：23166
+DelayS: 17  On:  6 
+当前工作时间节点：23183
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：23239
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：23245
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：23298
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：23304
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：23360
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：23485
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：23541
+DelayS: 17  On:  2 
+当前工作时间节点：23558
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：23614
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：23670
+DelayS: 17  On:  4 
+当前工作时间节点：23687
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：23743
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：23799
+DelayS: 17  On:  6 
+当前工作时间节点：23816
+Move:  6 ->  7 UpDown:  1 
+DelayS: 42  On:  7 
+当前工作时间节点：23858
+DelayS: 14  On:  7 
+当前工作时间节点：23872
+Move:  7 ->  0 UpDown:  1 
+DelayS: 48  On:  0 
+当前工作时间节点：23920
+DelayS: 51  On:  0 
+当前工作时间节点：23971
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：24027
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：24118
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：24174
+DelayS: 17  On:  2 
+当前工作时间节点：24191
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：24247
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：24303
+DelayS: 17  On:  4 
+当前工作时间节点：24320
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：24376
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：24432
+DelayS: 17  On:  6 
+当前工作时间节点：24449
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：24505
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：24531
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：24584
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：24587
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：24643
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：24751
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：24807
+DelayS: 17  On:  2 
+当前工作时间节点：24824
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：24880
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：24936
+DelayS: 17  On:  4 
+当前工作时间节点：24953
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：25009
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：25065
+DelayS: 17  On:  6 
+当前工作时间节点：25082
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：25138
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：25144
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：25197
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：25203
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：25259
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：25384
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：25440
+DelayS: 17  On:  2 
+当前工作时间节点：25457
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：25513
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：25569
+DelayS: 17  On:  4 
+当前工作时间节点：25586
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：25642
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：25698
+DelayS: 17  On:  6 
+当前工作时间节点：25715
+Move:  6 ->  7 UpDown:  1 
+DelayS: 42  On:  7 
+当前工作时间节点：25757
+DelayS: 14  On:  7 
+当前工作时间节点：25771
+Move:  7 ->  0 UpDown:  1 
+DelayS: 48  On:  0 
+当前工作时间节点：25819
+DelayS: 51  On:  0 
+当前工作时间节点：25870
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：25926
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：26017
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：26073
+DelayS: 17  On:  2 
+当前工作时间节点：26090
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：26146
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：26202
+DelayS: 17  On:  4 
+当前工作时间节点：26219
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：26275
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：26331
+DelayS: 17  On:  6 
+当前工作时间节点：26348
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：26404
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：26430
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：26483
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：26486
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：26542
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：26650
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：26706
+DelayS: 17  On:  2 
+当前工作时间节点：26723
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：26779
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：26835
+DelayS: 17  On:  4 
+当前工作时间节点：26852
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：26908
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：26964
+DelayS: 17  On:  6 
+当前工作时间节点：26981
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：27037
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：27043
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：27096
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：27102
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：27158
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：27283
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：27339
+DelayS: 17  On:  2 
+当前工作时间节点：27356
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：27412
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：27468
+DelayS: 17  On:  4 
+当前工作时间节点：27485
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：27541
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：27597
+DelayS: 17  On:  6 
+当前工作时间节点：27614
+Move:  6 ->  7 UpDown:  1 
+DelayS: 42  On:  7 
+当前工作时间节点：27656
+DelayS: 14  On:  7 
+当前工作时间节点：27670
+Move:  7 ->  0 UpDown:  1 
+DelayS: 48  On:  0 
+当前工作时间节点：27718
+DelayS: 51  On:  0 
+当前工作时间节点：27769
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：27825
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：27916
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：27972
+DelayS: 17  On:  2 
+当前工作时间节点：27989
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：28045
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：28101
+DelayS: 17  On:  4 
+当前工作时间节点：28118
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：28174
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：28230
+DelayS: 17  On:  6 
+当前工作时间节点：28247
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：28303
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：28329
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：28382
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：28385
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：28441
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：28549
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：28605
+DelayS: 17  On:  2 
+当前工作时间节点：28622
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：28678
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：28734
+DelayS: 17  On:  4 
+当前工作时间节点：28751
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：0
+Move:  0 ->  0 UpDown:  0 
+DelayS: 28  On:  0 
+当前工作时间节点：28
+Move:  0 ->  1 UpDown:  1 
+DelayS: 31  On:  1 
+当前工作时间节点：59
+Move:  1 ->  2 UpDown:  1 
+DelayS: 48  On:  2 
+当前工作时间节点：107
+Move:  2 ->  3 UpDown:  1 
+DelayS: 31  On:  3 
+当前工作时间节点：138
+Move:  3 ->  4 UpDown:  1 
+DelayS: 48  On:  4 
+当前工作时间节点：186
+Move:  4 ->  5 UpDown:  1 
+DelayS: 31  On:  5 
+当前工作时间节点：217
+Move:  5 ->  6 UpDown:  1 
+DelayS: 48  On:  6 
+当前工作时间节点：265
+Move:  6 ->  7 UpDown:  1 
+DelayS: 31  On:  7 
+当前工作时间节点：296
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：588
+Move:  0 ->  0 UpDown:  1 
+DelayS: 31  On:  0 
+当前工作时间节点：619
+DelayS: 22  On:  0 
+当前工作时间节点：641
+Move:  0 ->  1 UpDown:  1 
+DelayS: 26  On:  1 
+当前工作时间节点：667
+DelayS: 30  On:  1 
+当前工作时间节点：697
+Move:  1 ->  2 UpDown:  1 
+DelayS:  1  On:  2 
+当前工作时间节点：698
+DelayS: 48  On:  2 
+当前工作时间节点：746
+DelayS: 24  On:  2 
+当前工作时间节点：770
+Move:  2 ->  3 UpDown:  1 
+DelayS:  7  On:  3 
+当前工作时间节点：777
+DelayS: 48  On:  3 
+当前工作时间节点：825
+DelayS:  1  On:  3 
+当前工作时间节点：826
+Move:  3 ->  4 UpDown:  1 
+DelayS: 30  On:  4 
+当前工作时间节点：856
+DelayS: 43  On:  4 
+当前工作时间节点：899
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：955
+Move:  5 ->  6 UpDown:  1 
+DelayS: 73  On:  6 
+当前工作时间节点：1028
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：1084
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：1201
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：1254
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：1257
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：1313
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：1330
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：1386
+DelayS: 17  On:  2 
+当前工作时间节点：1403
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：1459
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：1515
+DelayS: 17  On:  4 
+当前工作时间节点：1532
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：1588
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：1644
+DelayS: 17  On:  6 
+当前工作时间节点：1661
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：1717
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：1814
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：1867
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：1873
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：1929
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：1963
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：2019
+DelayS: 17  On:  2 
+当前工作时间节点：2036
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：2092
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：2148
+DelayS: 17  On:  4 
+当前工作时间节点：2165
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：2221
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：2277
+DelayS: 17  On:  6 
+当前工作时间节点：2294
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：2350
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：2427
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：2480
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：2489
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：2545
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：2596
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：2652
+DelayS: 17  On:  2 
+当前工作时间节点：2669
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：2725
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：2781
+DelayS: 17  On:  4 
+当前工作时间节点：2798
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：2854
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：2910
+DelayS: 17  On:  6 
+当前工作时间节点：2927
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：2983
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：3040
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：3093
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：3105
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：3161
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：3229
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：3285
+DelayS: 17  On:  2 
+当前工作时间节点：3302
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：3358
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：3414
+DelayS: 17  On:  4 
+当前工作时间节点：3431
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：3487
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：3543
+DelayS: 17  On:  6 
+当前工作时间节点：3560
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：3616
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：3653
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：3706
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：3721
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：3777
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：3862
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：3918
+DelayS: 17  On:  2 
+当前工作时间节点：3935
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：3991
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：4047
+DelayS: 17  On:  4 
+当前工作时间节点：4064
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：4120
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：4176
+DelayS: 17  On:  6 
+当前工作时间节点：4193
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：4249
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：4266
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：4319
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：4337
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：4393
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：4495
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：4551
+DelayS: 17  On:  2 
+当前工作时间节点：4568
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：4624
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：4680
+DelayS: 17  On:  4 
+当前工作时间节点：4697
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：4753
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：4809
+DelayS: 17  On:  6 
+当前工作时间节点：4826
+Move:  6 ->  7 UpDown:  1 
+DelayS: 53  On:  7 
+当前工作时间节点：4879
+DelayS:  3  On:  7 
+当前工作时间节点：4882
+Move:  7 ->  0 UpDown:  1 
+DelayS: 71  On:  0 
+当前工作时间节点：4953
+DelayS: 28  On:  0 
+当前工作时间节点：4981
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：5037
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：5128
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：5184
+DelayS: 17  On:  2 
+当前工作时间节点：5201
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：5257
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：5313
+DelayS: 17  On:  4 
+当前工作时间节点：5330
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：5386
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：5442
+DelayS: 17  On:  6 
+当前工作时间节点：5459
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：5515
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：5541
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：5594
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：5597
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：5653
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：5761
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：5817
+DelayS: 17  On:  2 
+当前工作时间节点：5834
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：5890
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：5946
+DelayS: 17  On:  4 
+当前工作时间节点：5963
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：6019
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：6075
+DelayS: 17  On:  6 
+当前工作时间节点：6092
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：6148
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：6154
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：6207
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：6213
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：6269
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：6394
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：6450
+DelayS: 17  On:  2 
+当前工作时间节点：6467
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：6523
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：6579
+DelayS: 17  On:  4 
+当前工作时间节点：6596
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：6652
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：6708
+DelayS: 17  On:  6 
+当前工作时间节点：6725
+Move:  6 ->  7 UpDown:  1 
+DelayS: 42  On:  7 
+当前工作时间节点：6767
+DelayS: 14  On:  7 
+当前工作时间节点：6781
+Move:  7 ->  0 UpDown:  1 
+DelayS: 48  On:  0 
+当前工作时间节点：6829
+DelayS: 51  On:  0 
+当前工作时间节点：6880
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：6936
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：7027
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：7083
+DelayS: 17  On:  2 
+当前工作时间节点：7100
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：7156
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：7212
+DelayS: 17  On:  4 
+当前工作时间节点：7229
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：7285
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：7341
+DelayS: 17  On:  6 
+当前工作时间节点：7358
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：7414
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：7440
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：7493
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：7496
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：7552
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：7660
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：7716
+DelayS: 17  On:  2 
+当前工作时间节点：7733
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：7789
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：7845
+DelayS: 17  On:  4 
+当前工作时间节点：7862
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：7918
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：7974
+DelayS: 17  On:  6 
+当前工作时间节点：7991
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：8047
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：8053
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：8106
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：8112
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：8168
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：8293
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：8349
+DelayS: 17  On:  2 
+当前工作时间节点：8366
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：8422
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：8478
+DelayS: 17  On:  4 
+当前工作时间节点：8495
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：8551
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：8607
+DelayS: 17  On:  6 
+当前工作时间节点：8624
+Move:  6 ->  7 UpDown:  1 
+DelayS: 42  On:  7 
+当前工作时间节点：8666
+DelayS: 14  On:  7 
+当前工作时间节点：8680
+Move:  7 ->  0 UpDown:  1 
+DelayS: 48  On:  0 
+当前工作时间节点：8728
+DelayS: 51  On:  0 
+当前工作时间节点：8779
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：8835
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：8926
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：8982
+DelayS: 17  On:  2 
+当前工作时间节点：8999
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：9055
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：9111
+DelayS: 17  On:  4 
+当前工作时间节点：9128
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：9184
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：9240
+DelayS: 17  On:  6 
+当前工作时间节点：9257
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：9313
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：9339
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：9392
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：9395
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：9451
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：9559
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：9615
+DelayS: 17  On:  2 
+当前工作时间节点：9632
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：9688
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：9744
+DelayS: 17  On:  4 
+当前工作时间节点：9761
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：9817
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：9873
+DelayS: 17  On:  6 
+当前工作时间节点：9890
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：9946
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：9952
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：10005
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：10011
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：10067
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：10192
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：10248
+DelayS: 17  On:  2 
+当前工作时间节点：10265
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：10321
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：10377
+DelayS: 17  On:  4 
+当前工作时间节点：10394
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：10450
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：10506
+DelayS: 17  On:  6 
+当前工作时间节点：10523
+Move:  6 ->  7 UpDown:  1 
+DelayS: 42  On:  7 
+当前工作时间节点：10565
+DelayS: 14  On:  7 
+当前工作时间节点：10579
+Move:  7 ->  0 UpDown:  1 
+DelayS: 48  On:  0 
+当前工作时间节点：10627
+DelayS: 51  On:  0 
+当前工作时间节点：10678
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：10734
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：10825
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：10881
+DelayS: 17  On:  2 
+当前工作时间节点：10898
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：10954
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：11010
+DelayS: 17  On:  4 
+当前工作时间节点：11027
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：11083
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：11139
+DelayS: 17  On:  6 
+当前工作时间节点：11156
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：11212
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：11238
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：11291
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：11294
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：11350
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：11458
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：11514
+DelayS: 17  On:  2 
+当前工作时间节点：11531
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：11587
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：11643
+DelayS: 17  On:  4 
+当前工作时间节点：11660
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：11716
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：11772
+DelayS: 17  On:  6 
+当前工作时间节点：11789
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：11845
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：11851
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：11904
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：11910
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：11966
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：12091
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：12147
+DelayS: 17  On:  2 
+当前工作时间节点：12164
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：12220
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：12276
+DelayS: 17  On:  4 
+当前工作时间节点：12293
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：12349
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：12405
+DelayS: 17  On:  6 
+当前工作时间节点：12422
+Move:  6 ->  7 UpDown:  1 
+DelayS: 42  On:  7 
+当前工作时间节点：12464
+DelayS: 14  On:  7 
+当前工作时间节点：12478
+Move:  7 ->  0 UpDown:  1 
+DelayS: 48  On:  0 
+当前工作时间节点：12526
+DelayS: 51  On:  0 
+当前工作时间节点：12577
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：12633
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：12724
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：12780
+DelayS: 17  On:  2 
+当前工作时间节点：12797
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：12853
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：12909
+DelayS: 17  On:  4 
+当前工作时间节点：12926
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：12982
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：13038
+DelayS: 17  On:  6 
+当前工作时间节点：13055
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：13111
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：13137
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：13190
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：13193
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：13249
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：13357
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：13413
+DelayS: 17  On:  2 
+当前工作时间节点：13430
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：13486
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：13542
+DelayS: 17  On:  4 
+当前工作时间节点：13559
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：13615
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：13671
+DelayS: 17  On:  6 
+当前工作时间节点：13688
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：13744
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：13750
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：13803
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：13809
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：13865
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：13990
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：14046
+DelayS: 17  On:  2 
+当前工作时间节点：14063
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：14119
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：14175
+DelayS: 17  On:  4 
+当前工作时间节点：14192
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：14248
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：14304
+DelayS: 17  On:  6 
+当前工作时间节点：14321
+Move:  6 ->  7 UpDown:  1 
+DelayS: 42  On:  7 
+当前工作时间节点：14363
+DelayS: 14  On:  7 
+当前工作时间节点：14377
+Move:  7 ->  0 UpDown:  1 
+DelayS: 48  On:  0 
+当前工作时间节点：14425
+DelayS: 51  On:  0 
+当前工作时间节点：14476
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：14532
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：14623
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：14679
+DelayS: 17  On:  2 
+当前工作时间节点：14696
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：14752
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：14808
+DelayS: 17  On:  4 
+当前工作时间节点：14825
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：14881
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：14937
+DelayS: 17  On:  6 
+当前工作时间节点：14954
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：15010
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：15036
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：15089
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：15092
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：15148
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：15256
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：15312
+DelayS: 17  On:  2 
+当前工作时间节点：15329
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：15385
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：15441
+DelayS: 17  On:  4 
+当前工作时间节点：15458
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：15514
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：15570
+DelayS: 17  On:  6 
+当前工作时间节点：15587
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：15643
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：15649
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：15702
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：15708
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：15764
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：15889
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：15945
+DelayS: 17  On:  2 
+当前工作时间节点：15962
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：16018
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：16074
+DelayS: 17  On:  4 
+当前工作时间节点：16091
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：16147
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：16203
+DelayS: 17  On:  6 
+当前工作时间节点：16220
+Move:  6 ->  7 UpDown:  1 
+DelayS: 42  On:  7 
+当前工作时间节点：16262
+DelayS: 14  On:  7 
+当前工作时间节点：16276
+Move:  7 ->  0 UpDown:  1 
+DelayS: 48  On:  0 
+当前工作时间节点：16324
+DelayS: 51  On:  0 
+当前工作时间节点：16375
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：16431
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：16522
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：16578
+DelayS: 17  On:  2 
+当前工作时间节点：16595
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：16651
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：16707
+DelayS: 17  On:  4 
+当前工作时间节点：16724
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：16780
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：16836
+DelayS: 17  On:  6 
+当前工作时间节点：16853
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：16909
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：16935
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：16988
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：16991
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：17047
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：17155
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：17211
+DelayS: 17  On:  2 
+当前工作时间节点：17228
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：17284
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：17340
+DelayS: 17  On:  4 
+当前工作时间节点：17357
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：17413
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：17469
+DelayS: 17  On:  6 
+当前工作时间节点：17486
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：17542
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：17548
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：17601
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：17607
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：17663
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：17788
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：17844
+DelayS: 17  On:  2 
+当前工作时间节点：17861
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：17917
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：17973
+DelayS: 17  On:  4 
+当前工作时间节点：17990
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：18046
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：18102
+DelayS: 17  On:  6 
+当前工作时间节点：18119
+Move:  6 ->  7 UpDown:  1 
+DelayS: 42  On:  7 
+当前工作时间节点：18161
+DelayS: 14  On:  7 
+当前工作时间节点：18175
+Move:  7 ->  0 UpDown:  1 
+DelayS: 48  On:  0 
+当前工作时间节点：18223
+DelayS: 51  On:  0 
+当前工作时间节点：18274
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：18330
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：18421
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：18477
+DelayS: 17  On:  2 
+当前工作时间节点：18494
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：18550
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：18606
+DelayS: 17  On:  4 
+当前工作时间节点：18623
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：18679
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：18735
+DelayS: 17  On:  6 
+当前工作时间节点：18752
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：18808
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：18834
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：18887
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：18890
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：18946
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：19054
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：19110
+DelayS: 17  On:  2 
+当前工作时间节点：19127
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：19183
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：19239
+DelayS: 17  On:  4 
+当前工作时间节点：19256
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：19312
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：19368
+DelayS: 17  On:  6 
+当前工作时间节点：19385
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：19441
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：19447
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：19500
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：19506
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：19562
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：19687
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：19743
+DelayS: 17  On:  2 
+当前工作时间节点：19760
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：19816
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：19872
+DelayS: 17  On:  4 
+当前工作时间节点：19889
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：19945
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：20001
+DelayS: 17  On:  6 
+当前工作时间节点：20018
+Move:  6 ->  7 UpDown:  1 
+DelayS: 42  On:  7 
+当前工作时间节点：20060
+DelayS: 14  On:  7 
+当前工作时间节点：20074
+Move:  7 ->  0 UpDown:  1 
+DelayS: 48  On:  0 
+当前工作时间节点：20122
+DelayS: 51  On:  0 
+当前工作时间节点：20173
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：20229
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：20320
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：20376
+DelayS: 17  On:  2 
+当前工作时间节点：20393
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：20449
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：20505
+DelayS: 17  On:  4 
+当前工作时间节点：20522
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：20578
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：20634
+DelayS: 17  On:  6 
+当前工作时间节点：20651
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：20707
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：20733
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：20786
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：20789
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：20845
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：20953
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：21009
+DelayS: 17  On:  2 
+当前工作时间节点：21026
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：21082
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：21138
+DelayS: 17  On:  4 
+当前工作时间节点：21155
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：21211
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：21267
+DelayS: 17  On:  6 
+当前工作时间节点：21284
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：21340
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：21346
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：21399
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：21405
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：21461
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：21586
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：21642
+DelayS: 17  On:  2 
+当前工作时间节点：21659
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：21715
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：21771
+DelayS: 17  On:  4 
+当前工作时间节点：21788
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：21844
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：21900
+DelayS: 17  On:  6 
+当前工作时间节点：21917
+Move:  6 ->  7 UpDown:  1 
+DelayS: 42  On:  7 
+当前工作时间节点：21959
+DelayS: 14  On:  7 
+当前工作时间节点：21973
+Move:  7 ->  0 UpDown:  1 
+DelayS: 48  On:  0 
+当前工作时间节点：22021
+DelayS: 51  On:  0 
+当前工作时间节点：22072
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：22128
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：22219
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：22275
+DelayS: 17  On:  2 
+当前工作时间节点：22292
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：22348
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：22404
+DelayS: 17  On:  4 
+当前工作时间节点：22421
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：22477
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：22533
+DelayS: 17  On:  6 
+当前工作时间节点：22550
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：22606
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：22632
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：22685
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：22688
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：22744
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：22852
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：22908
+DelayS: 17  On:  2 
+当前工作时间节点：22925
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：22981
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：23037
+DelayS: 17  On:  4 
+当前工作时间节点：23054
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：23110
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：23166
+DelayS: 17  On:  6 
+当前工作时间节点：23183
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：23239
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：23245
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：23298
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：23304
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：23360
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：23485
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：23541
+DelayS: 17  On:  2 
+当前工作时间节点：23558
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：23614
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：23670
+DelayS: 17  On:  4 
+当前工作时间节点：23687
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：23743
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：23799
+DelayS: 17  On:  6 
+当前工作时间节点：23816
+Move:  6 ->  7 UpDown:  1 
+DelayS: 42  On:  7 
+当前工作时间节点：23858
+DelayS: 14  On:  7 
+当前工作时间节点：23872
+Move:  7 ->  0 UpDown:  1 
+DelayS: 48  On:  0 
+当前工作时间节点：23920
+DelayS: 51  On:  0 
+当前工作时间节点：23971
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：24027
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：24118
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：24174
+DelayS: 17  On:  2 
+当前工作时间节点：24191
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：24247
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：24303
+DelayS: 17  On:  4 
+当前工作时间节点：24320
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：24376
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：24432
+DelayS: 17  On:  6 
+当前工作时间节点：24449
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：24505
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：24531
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：24584
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：24587
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：24643
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：24751
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：24807
+DelayS: 17  On:  2 
+当前工作时间节点：24824
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：24880
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：24936
+DelayS: 17  On:  4 
+当前工作时间节点：24953
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：25009
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：25065
+DelayS: 17  On:  6 
+当前工作时间节点：25082
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：25138
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：25144
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：25197
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：25203
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：25259
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：25384
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：25440
+DelayS: 17  On:  2 
+当前工作时间节点：25457
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：25513
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：25569
+DelayS: 17  On:  4 
+当前工作时间节点：25586
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：25642
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：25698
+DelayS: 17  On:  6 
+当前工作时间节点：25715
+Move:  6 ->  7 UpDown:  1 
+DelayS: 42  On:  7 
+当前工作时间节点：25757
+DelayS: 14  On:  7 
+当前工作时间节点：25771
+Move:  7 ->  0 UpDown:  1 
+DelayS: 48  On:  0 
+当前工作时间节点：25819
+DelayS: 51  On:  0 
+当前工作时间节点：25870
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：25926
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：26017
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：26073
+DelayS: 17  On:  2 
+当前工作时间节点：26090
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：26146
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：26202
+DelayS: 17  On:  4 
+当前工作时间节点：26219
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：26275
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：26331
+DelayS: 17  On:  6 
+当前工作时间节点：26348
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：26404
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：26430
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：26483
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：26486
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：26542
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：26650
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：26706
+DelayS: 17  On:  2 
+当前工作时间节点：26723
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：26779
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：26835
+DelayS: 17  On:  4 
+当前工作时间节点：26852
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：26908
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：26964
+DelayS: 17  On:  6 
+当前工作时间节点：26981
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：27037
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：27043
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：27096
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：27102
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：27158
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：27283
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：27339
+DelayS: 17  On:  2 
+当前工作时间节点：27356
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：27412
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：27468
+DelayS: 17  On:  4 
+当前工作时间节点：27485
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：27541
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：27597
+DelayS: 17  On:  6 
+当前工作时间节点：27614
+Move:  6 ->  7 UpDown:  1 
+DelayS: 42  On:  7 
+当前工作时间节点：27656
+DelayS: 14  On:  7 
+当前工作时间节点：27670
+Move:  7 ->  0 UpDown:  1 
+DelayS: 48  On:  0 
+当前工作时间节点：27718
+DelayS: 51  On:  0 
+当前工作时间节点：27769
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：27825
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：27916
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：27972
+DelayS: 17  On:  2 
+当前工作时间节点：27989
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：28045
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：28101
+DelayS: 17  On:  4 
+当前工作时间节点：28118
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：28174
+Move:  5 ->  6 UpDown:  1 
+DelayS: 56  On:  6 
+当前工作时间节点：28230
+DelayS: 17  On:  6 
+当前工作时间节点：28247
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：28303
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：28329
+Move:  0 ->  0 UpDown:  1 
+DelayS: 53  On:  0 
+当前工作时间节点：28382
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：28385
+Move:  0 ->  1 UpDown:  1 
+DelayS: 56  On:  1 
+当前工作时间节点：28441
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：28549
+Move:  0 ->  2 UpDown:  1 
+DelayS: 56  On:  2 
+当前工作时间节点：28605
+DelayS: 17  On:  2 
+当前工作时间节点：28622
+Move:  2 ->  3 UpDown:  1 
+DelayS: 56  On:  3 
+当前工作时间节点：28678
+Move:  3 ->  4 UpDown:  1 
+DelayS: 56  On:  4 
+当前工作时间节点：28734
+DelayS: 17  On:  4 
+当前工作时间节点：28751
+Move:  4 ->  5 UpDown:  1 
+DelayS: 56  On:  5 
+当前工作时间节点：0
+Move:  0 ->  0 UpDown:  0 
+DelayS: 27  On:  0 
+当前工作时间节点：27
+Move:  0 ->  1 UpDown:  1 
+DelayS: 32  On:  1 
+当前工作时间节点：59
+Move:  1 ->  2 UpDown:  1 
+DelayS: 45  On:  2 
+当前工作时间节点：104
+Move:  2 ->  3 UpDown:  1 
+DelayS: 32  On:  3 
+当前工作时间节点：136
+Move:  3 ->  4 UpDown:  1 
+DelayS: 45  On:  4 
+当前工作时间节点：181
+Move:  4 ->  5 UpDown:  1 
+DelayS: 32  On:  5 
+当前工作时间节点：213
+Move:  5 ->  6 UpDown:  1 
+DelayS: 45  On:  6 
+当前工作时间节点：258
+Move:  6 ->  7 UpDown:  1 
+DelayS: 32  On:  7 
+当前工作时间节点：290
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：572
+Move:  0 ->  0 UpDown:  1 
+DelayS: 32  On:  0 
+当前工作时间节点：604
+DelayS: 20  On:  0 
+当前工作时间节点：624
+Move:  0 ->  1 UpDown:  1 
+DelayS: 25  On:  1 
+当前工作时间节点：649
+DelayS: 32  On:  1 
+当前工作时间节点：681
+Move:  1 ->  2 UpDown:  1 
+DelayS: 45  On:  2 
+当前工作时间节点：726
+DelayS: 25  On:  2 
+当前工作时间节点：751
+Move:  2 ->  3 UpDown:  1 
+DelayS:  7  On:  3 
+当前工作时间节点：758
+DelayS: 45  On:  3 
+当前工作时间节点：803
+DelayS:  5  On:  3 
+当前工作时间节点：808
+Move:  3 ->  4 UpDown:  1 
+DelayS: 27  On:  4 
+当前工作时间节点：835
+DelayS: 43  On:  4 
+当前工作时间节点：878
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：935
+Move:  5 ->  6 UpDown:  1 
+DelayS: 70  On:  6 
+当前工作时间节点：1005
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：1062
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：1169
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：1221
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：1226
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：1283
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：1296
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：1353
+DelayS: 13  On:  2 
+当前工作时间节点：1366
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：1423
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：1480
+DelayS: 13  On:  4 
+当前工作时间节点：1493
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：1550
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：1607
+DelayS: 13  On:  6 
+当前工作时间节点：1620
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：1677
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：1766
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：1818
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：1828
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：1885
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：1911
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：1968
+DelayS: 13  On:  2 
+当前工作时间节点：1981
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：2038
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：2095
+DelayS: 13  On:  4 
+当前工作时间节点：2108
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：2165
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：2222
+DelayS: 13  On:  6 
+当前工作时间节点：2235
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：2292
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：2363
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：2415
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：2430
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：2487
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：2526
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：2583
+DelayS: 13  On:  2 
+当前工作时间节点：2596
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：2653
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：2710
+DelayS: 13  On:  4 
+当前工作时间节点：2723
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：2780
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：2837
+DelayS: 13  On:  6 
+当前工作时间节点：2850
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：2907
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：2960
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：3012
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：3032
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：3089
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：3141
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：3198
+DelayS: 13  On:  2 
+当前工作时间节点：3211
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：3268
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：3325
+DelayS: 13  On:  4 
+当前工作时间节点：3338
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：3395
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：3452
+DelayS: 13  On:  6 
+当前工作时间节点：3465
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：3522
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：3557
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：3609
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：3634
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：3691
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：3756
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：3813
+DelayS: 13  On:  2 
+当前工作时间节点：3826
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：3883
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：3940
+DelayS: 13  On:  4 
+当前工作时间节点：3953
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：4010
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：4067
+DelayS: 13  On:  6 
+当前工作时间节点：4080
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：4137
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：4154
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：4206
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：4236
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：4293
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：4371
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：4428
+DelayS: 13  On:  2 
+当前工作时间节点：4441
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：4498
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：4555
+DelayS: 13  On:  4 
+当前工作时间节点：4568
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：4625
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：4682
+DelayS: 13  On:  6 
+当前工作时间节点：4695
+Move:  6 ->  7 UpDown:  1 
+DelayS: 56  On:  7 
+当前工作时间节点：4751
+DelayS:  1  On:  7 
+当前工作时间节点：4752
+Move:  7 ->  0 UpDown:  1 
+DelayS: 86  On:  0 
+当前工作时间节点：4838
+DelayS: 12  On:  0 
+当前工作时间节点：4850
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：4907
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：4986
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：5043
+DelayS: 13  On:  2 
+当前工作时间节点：5056
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：5113
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：5170
+DelayS: 13  On:  4 
+当前工作时间节点：5183
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：5240
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：5297
+DelayS: 13  On:  6 
+当前工作时间节点：5310
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：5367
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：5395
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：5447
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：5452
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：5509
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：5601
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：5658
+DelayS: 13  On:  2 
+当前工作时间节点：5671
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：5728
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：5785
+DelayS: 13  On:  4 
+当前工作时间节点：5798
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：5855
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：5912
+DelayS: 13  On:  6 
+当前工作时间节点：5925
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：5982
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：5992
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：6044
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：6054
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：6111
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：6216
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：6273
+DelayS: 13  On:  2 
+当前工作时间节点：6286
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：6343
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：6400
+DelayS: 13  On:  4 
+当前工作时间节点：6413
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：6470
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：6527
+DelayS: 13  On:  6 
+当前工作时间节点：6540
+Move:  6 ->  7 UpDown:  1 
+DelayS: 49  On:  7 
+当前工作时间节点：6589
+DelayS:  8  On:  7 
+当前工作时间节点：6597
+Move:  7 ->  0 UpDown:  1 
+DelayS: 59  On:  0 
+当前工作时间节点：6656
+DelayS: 39  On:  0 
+当前工作时间节点：6695
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：6752
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：6831
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：6888
+DelayS: 13  On:  2 
+当前工作时间节点：6901
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：6958
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：7015
+DelayS: 13  On:  4 
+当前工作时间节点：7028
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：7085
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：7142
+DelayS: 13  On:  6 
+当前工作时间节点：7155
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：7212
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：7240
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：7292
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：7297
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：7354
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：7446
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：7503
+DelayS: 13  On:  2 
+当前工作时间节点：7516
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：7573
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：7630
+DelayS: 13  On:  4 
+当前工作时间节点：7643
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：7700
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：7757
+DelayS: 13  On:  6 
+当前工作时间节点：7770
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：7827
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：7837
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：7889
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：7899
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：7956
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：8061
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：8118
+DelayS: 13  On:  2 
+当前工作时间节点：8131
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：8188
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：8245
+DelayS: 13  On:  4 
+当前工作时间节点：8258
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：8315
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：8372
+DelayS: 13  On:  6 
+当前工作时间节点：8385
+Move:  6 ->  7 UpDown:  1 
+DelayS: 49  On:  7 
+当前工作时间节点：8434
+DelayS:  8  On:  7 
+当前工作时间节点：8442
+Move:  7 ->  0 UpDown:  1 
+DelayS: 59  On:  0 
+当前工作时间节点：8501
+DelayS: 39  On:  0 
+当前工作时间节点：8540
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：8597
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：8676
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：8733
+DelayS: 13  On:  2 
+当前工作时间节点：8746
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：8803
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：8860
+DelayS: 13  On:  4 
+当前工作时间节点：8873
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：8930
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：8987
+DelayS: 13  On:  6 
+当前工作时间节点：9000
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：9057
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：9085
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：9137
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：9142
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：9199
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：9291
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：9348
+DelayS: 13  On:  2 
+当前工作时间节点：9361
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：9418
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：9475
+DelayS: 13  On:  4 
+当前工作时间节点：9488
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：9545
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：9602
+DelayS: 13  On:  6 
+当前工作时间节点：9615
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：9672
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：9682
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：9734
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：9744
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：9801
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：9906
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：9963
+DelayS: 13  On:  2 
+当前工作时间节点：9976
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：10033
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：10090
+DelayS: 13  On:  4 
+当前工作时间节点：10103
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：10160
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：10217
+DelayS: 13  On:  6 
+当前工作时间节点：10230
+Move:  6 ->  7 UpDown:  1 
+DelayS: 49  On:  7 
+当前工作时间节点：10279
+DelayS:  8  On:  7 
+当前工作时间节点：10287
+Move:  7 ->  0 UpDown:  1 
+DelayS: 59  On:  0 
+当前工作时间节点：10346
+DelayS: 39  On:  0 
+当前工作时间节点：10385
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：10442
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：10521
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：10578
+DelayS: 13  On:  2 
+当前工作时间节点：10591
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：10648
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：10705
+DelayS: 13  On:  4 
+当前工作时间节点：10718
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：10775
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：10832
+DelayS: 13  On:  6 
+当前工作时间节点：10845
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：10902
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：10930
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：10982
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：10987
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：11044
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：11136
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：11193
+DelayS: 13  On:  2 
+当前工作时间节点：11206
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：11263
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：11320
+DelayS: 13  On:  4 
+当前工作时间节点：11333
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：11390
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：11447
+DelayS: 13  On:  6 
+当前工作时间节点：11460
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：11517
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：11527
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：11579
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：11589
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：11646
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：11751
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：11808
+DelayS: 13  On:  2 
+当前工作时间节点：11821
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：11878
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：11935
+DelayS: 13  On:  4 
+当前工作时间节点：11948
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：12005
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：12062
+DelayS: 13  On:  6 
+当前工作时间节点：12075
+Move:  6 ->  7 UpDown:  1 
+DelayS: 49  On:  7 
+当前工作时间节点：12124
+DelayS:  8  On:  7 
+当前工作时间节点：12132
+Move:  7 ->  0 UpDown:  1 
+DelayS: 59  On:  0 
+当前工作时间节点：12191
+DelayS: 39  On:  0 
+当前工作时间节点：12230
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：12287
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：12366
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：12423
+DelayS: 13  On:  2 
+当前工作时间节点：12436
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：12493
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：12550
+DelayS: 13  On:  4 
+当前工作时间节点：12563
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：12620
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：12677
+DelayS: 13  On:  6 
+当前工作时间节点：12690
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：12747
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：12775
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：12827
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：12832
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：12889
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：12981
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：13038
+DelayS: 13  On:  2 
+当前工作时间节点：13051
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：13108
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：13165
+DelayS: 13  On:  4 
+当前工作时间节点：13178
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：13235
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：13292
+DelayS: 13  On:  6 
+当前工作时间节点：13305
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：13362
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：13372
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：13424
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：13434
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：13491
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：13596
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：13653
+DelayS: 13  On:  2 
+当前工作时间节点：13666
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：13723
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：13780
+DelayS: 13  On:  4 
+当前工作时间节点：13793
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：13850
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：13907
+DelayS: 13  On:  6 
+当前工作时间节点：13920
+Move:  6 ->  7 UpDown:  1 
+DelayS: 49  On:  7 
+当前工作时间节点：13969
+DelayS:  8  On:  7 
+当前工作时间节点：13977
+Move:  7 ->  0 UpDown:  1 
+DelayS: 59  On:  0 
+当前工作时间节点：14036
+DelayS: 39  On:  0 
+当前工作时间节点：14075
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：14132
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：14211
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：14268
+DelayS: 13  On:  2 
+当前工作时间节点：14281
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：14338
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：14395
+DelayS: 13  On:  4 
+当前工作时间节点：14408
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：14465
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：14522
+DelayS: 13  On:  6 
+当前工作时间节点：14535
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：14592
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：14620
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：14672
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：14677
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：14734
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：14826
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：14883
+DelayS: 13  On:  2 
+当前工作时间节点：14896
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：14953
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：15010
+DelayS: 13  On:  4 
+当前工作时间节点：15023
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：15080
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：15137
+DelayS: 13  On:  6 
+当前工作时间节点：15150
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：15207
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：15217
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：15269
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：15279
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：15336
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：15441
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：15498
+DelayS: 13  On:  2 
+当前工作时间节点：15511
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：15568
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：15625
+DelayS: 13  On:  4 
+当前工作时间节点：15638
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：15695
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：15752
+DelayS: 13  On:  6 
+当前工作时间节点：15765
+Move:  6 ->  7 UpDown:  1 
+DelayS: 49  On:  7 
+当前工作时间节点：15814
+DelayS:  8  On:  7 
+当前工作时间节点：15822
+Move:  7 ->  0 UpDown:  1 
+DelayS: 59  On:  0 
+当前工作时间节点：15881
+DelayS: 39  On:  0 
+当前工作时间节点：15920
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：15977
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：16056
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：16113
+DelayS: 13  On:  2 
+当前工作时间节点：16126
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：16183
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：16240
+DelayS: 13  On:  4 
+当前工作时间节点：16253
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：16310
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：16367
+DelayS: 13  On:  6 
+当前工作时间节点：16380
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：16437
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：16465
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：16517
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：16522
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：16579
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：16671
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：16728
+DelayS: 13  On:  2 
+当前工作时间节点：16741
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：16798
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：16855
+DelayS: 13  On:  4 
+当前工作时间节点：16868
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：16925
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：16982
+DelayS: 13  On:  6 
+当前工作时间节点：16995
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：17052
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：17062
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：17114
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：17124
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：17181
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：17286
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：17343
+DelayS: 13  On:  2 
+当前工作时间节点：17356
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：17413
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：17470
+DelayS: 13  On:  4 
+当前工作时间节点：17483
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：17540
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：17597
+DelayS: 13  On:  6 
+当前工作时间节点：17610
+Move:  6 ->  7 UpDown:  1 
+DelayS: 49  On:  7 
+当前工作时间节点：17659
+DelayS:  8  On:  7 
+当前工作时间节点：17667
+Move:  7 ->  0 UpDown:  1 
+DelayS: 59  On:  0 
+当前工作时间节点：17726
+DelayS: 39  On:  0 
+当前工作时间节点：17765
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：17822
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：17901
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：17958
+DelayS: 13  On:  2 
+当前工作时间节点：17971
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：18028
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：18085
+DelayS: 13  On:  4 
+当前工作时间节点：18098
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：18155
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：18212
+DelayS: 13  On:  6 
+当前工作时间节点：18225
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：18282
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：18310
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：18362
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：18367
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：18424
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：18516
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：18573
+DelayS: 13  On:  2 
+当前工作时间节点：18586
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：18643
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：18700
+DelayS: 13  On:  4 
+当前工作时间节点：18713
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：18770
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：18827
+DelayS: 13  On:  6 
+当前工作时间节点：18840
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：18897
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：18907
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：18959
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：18969
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：19026
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：19131
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：19188
+DelayS: 13  On:  2 
+当前工作时间节点：19201
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：19258
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：19315
+DelayS: 13  On:  4 
+当前工作时间节点：19328
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：19385
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：19442
+DelayS: 13  On:  6 
+当前工作时间节点：19455
+Move:  6 ->  7 UpDown:  1 
+DelayS: 49  On:  7 
+当前工作时间节点：19504
+DelayS:  8  On:  7 
+当前工作时间节点：19512
+Move:  7 ->  0 UpDown:  1 
+DelayS: 59  On:  0 
+当前工作时间节点：19571
+DelayS: 39  On:  0 
+当前工作时间节点：19610
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：19667
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：19746
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：19803
+DelayS: 13  On:  2 
+当前工作时间节点：19816
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：19873
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：19930
+DelayS: 13  On:  4 
+当前工作时间节点：19943
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：20000
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：20057
+DelayS: 13  On:  6 
+当前工作时间节点：20070
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：20127
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：20155
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：20207
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：20212
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：20269
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：20361
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：20418
+DelayS: 13  On:  2 
+当前工作时间节点：20431
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：20488
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：20545
+DelayS: 13  On:  4 
+当前工作时间节点：20558
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：20615
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：20672
+DelayS: 13  On:  6 
+当前工作时间节点：20685
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：20742
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：20752
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：20804
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：20814
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：20871
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：20976
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：21033
+DelayS: 13  On:  2 
+当前工作时间节点：21046
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：21103
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：21160
+DelayS: 13  On:  4 
+当前工作时间节点：21173
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：21230
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：21287
+DelayS: 13  On:  6 
+当前工作时间节点：21300
+Move:  6 ->  7 UpDown:  1 
+DelayS: 49  On:  7 
+当前工作时间节点：21349
+DelayS:  8  On:  7 
+当前工作时间节点：21357
+Move:  7 ->  0 UpDown:  1 
+DelayS: 59  On:  0 
+当前工作时间节点：21416
+DelayS: 39  On:  0 
+当前工作时间节点：21455
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：21512
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：21591
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：21648
+DelayS: 13  On:  2 
+当前工作时间节点：21661
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：21718
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：21775
+DelayS: 13  On:  4 
+当前工作时间节点：21788
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：21845
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：21902
+DelayS: 13  On:  6 
+当前工作时间节点：21915
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：21972
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：22000
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：22052
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：22057
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：22114
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：22206
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：22263
+DelayS: 13  On:  2 
+当前工作时间节点：22276
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：22333
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：22390
+DelayS: 13  On:  4 
+当前工作时间节点：22403
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：22460
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：22517
+DelayS: 13  On:  6 
+当前工作时间节点：22530
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：22587
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：22597
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：22649
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：22659
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：22716
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：22821
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：22878
+DelayS: 13  On:  2 
+当前工作时间节点：22891
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：22948
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：23005
+DelayS: 13  On:  4 
+当前工作时间节点：23018
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：23075
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：23132
+DelayS: 13  On:  6 
+当前工作时间节点：23145
+Move:  6 ->  7 UpDown:  1 
+DelayS: 49  On:  7 
+当前工作时间节点：23194
+DelayS:  8  On:  7 
+当前工作时间节点：23202
+Move:  7 ->  0 UpDown:  1 
+DelayS: 59  On:  0 
+当前工作时间节点：23261
+DelayS: 39  On:  0 
+当前工作时间节点：23300
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：23357
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：23436
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：23493
+DelayS: 13  On:  2 
+当前工作时间节点：23506
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：23563
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：23620
+DelayS: 13  On:  4 
+当前工作时间节点：23633
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：23690
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：23747
+DelayS: 13  On:  6 
+当前工作时间节点：23760
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：23817
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：23845
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：23897
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：23902
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：23959
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：24051
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：24108
+DelayS: 13  On:  2 
+当前工作时间节点：24121
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：24178
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：24235
+DelayS: 13  On:  4 
+当前工作时间节点：24248
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：24305
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：24362
+DelayS: 13  On:  6 
+当前工作时间节点：24375
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：24432
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：24442
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：24494
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：24504
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：24561
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：24666
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：24723
+DelayS: 13  On:  2 
+当前工作时间节点：24736
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：24793
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：24850
+DelayS: 13  On:  4 
+当前工作时间节点：24863
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：24920
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：24977
+DelayS: 13  On:  6 
+当前工作时间节点：24990
+Move:  6 ->  7 UpDown:  1 
+DelayS: 49  On:  7 
+当前工作时间节点：25039
+DelayS:  8  On:  7 
+当前工作时间节点：25047
+Move:  7 ->  0 UpDown:  1 
+DelayS: 59  On:  0 
+当前工作时间节点：25106
+DelayS: 39  On:  0 
+当前工作时间节点：25145
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：25202
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：25281
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：25338
+DelayS: 13  On:  2 
+当前工作时间节点：25351
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：25408
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：25465
+DelayS: 13  On:  4 
+当前工作时间节点：25478
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：25535
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：25592
+DelayS: 13  On:  6 
+当前工作时间节点：25605
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：25662
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：25690
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：25742
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：25747
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：25804
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：25896
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：25953
+DelayS: 13  On:  2 
+当前工作时间节点：25966
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：26023
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：26080
+DelayS: 13  On:  4 
+当前工作时间节点：26093
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：26150
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：26207
+DelayS: 13  On:  6 
+当前工作时间节点：26220
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：26277
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：26287
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：26339
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：26349
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：26406
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：26511
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：26568
+DelayS: 13  On:  2 
+当前工作时间节点：26581
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：26638
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：26695
+DelayS: 13  On:  4 
+当前工作时间节点：26708
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：26765
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：26822
+DelayS: 13  On:  6 
+当前工作时间节点：26835
+Move:  6 ->  7 UpDown:  1 
+DelayS: 49  On:  7 
+当前工作时间节点：26884
+DelayS:  8  On:  7 
+当前工作时间节点：26892
+Move:  7 ->  0 UpDown:  1 
+DelayS: 59  On:  0 
+当前工作时间节点：26951
+DelayS: 39  On:  0 
+当前工作时间节点：26990
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：27047
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：27126
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：27183
+DelayS: 13  On:  2 
+当前工作时间节点：27196
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：27253
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：27310
+DelayS: 13  On:  4 
+当前工作时间节点：27323
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：27380
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：27437
+DelayS: 13  On:  6 
+当前工作时间节点：27450
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：27507
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：27535
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：27587
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：27592
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：27649
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：27741
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：27798
+DelayS: 13  On:  2 
+当前工作时间节点：27811
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：27868
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：27925
+DelayS: 13  On:  4 
+当前工作时间节点：27938
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：27995
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：28052
+DelayS: 13  On:  6 
+当前工作时间节点：28065
+Move:  6 ->  7 UpDown:  1 
+DelayS: 57  On:  7 
+当前工作时间节点：28122
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：28132
+Move:  0 ->  0 UpDown:  1 
+DelayS: 52  On:  0 
+当前工作时间节点：28184
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：28194
+Move:  0 ->  1 UpDown:  1 
+DelayS: 57  On:  1 
+当前工作时间节点：28251
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：28356
+Move:  0 ->  2 UpDown:  1 
+DelayS: 57  On:  2 
+当前工作时间节点：28413
+DelayS: 13  On:  2 
+当前工作时间节点：28426
+Move:  2 ->  3 UpDown:  1 
+DelayS: 57  On:  3 
+当前工作时间节点：28483
+Move:  3 ->  4 UpDown:  1 
+DelayS: 57  On:  4 
+当前工作时间节点：28540
+DelayS: 13  On:  4 
+当前工作时间节点：28553
+Move:  4 ->  5 UpDown:  1 
+DelayS: 57  On:  5 
+当前工作时间节点：28610
+Move:  5 ->  6 UpDown:  1 
+DelayS: 57  On:  6 
+当前工作时间节点：28667
+DelayS: 13  On:  6 
+当前工作时间节点：28680
+Move:  6 ->  7 UpDown:  1 
+DelayS: 49  On:  7 
+当前工作时间节点：28729
+DelayS:  8  On:  7 
+当前工作时间节点：28737
+Move:  7 ->  0 UpDown:  1 
+DelayS: 59  On:  0 
+当前工作时间节点：28796
+DelayS: 39  On:  0 
+当前工作时间节点：0
+Move:  0 ->  0 UpDown:  0 
+DelayS: 30  On:  0 
+当前工作时间节点：30
+Move:  0 ->  1 UpDown:  1 
+DelayS: 35  On:  1 
+当前工作时间节点：65
+Move:  1 ->  2 UpDown:  1 
+DelayS: 53  On:  2 
+当前工作时间节点：118
+Move:  2 ->  3 UpDown:  1 
+DelayS: 35  On:  3 
+当前工作时间节点：153
+Move:  3 ->  4 UpDown:  1 
+DelayS: 53  On:  4 
+当前工作时间节点：206
+Move:  4 ->  5 UpDown:  1 
+DelayS: 35  On:  5 
+当前工作时间节点：241
+Move:  5 ->  6 UpDown:  1 
+DelayS: 53  On:  6 
+当前工作时间节点：294
+Move:  6 ->  7 UpDown:  1 
+DelayS: 35  On:  7 
+当前工作时间节点：329
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：610
+Move:  0 ->  0 UpDown:  1 
+DelayS: 35  On:  0 
+当前工作时间节点：645
+DelayS: 25  On:  0 
+当前工作时间节点：670
+Move:  0 ->  1 UpDown:  1 
+DelayS: 28  On:  1 
+当前工作时间节点：698
+DelayS: 35  On:  1 
+当前工作时间节点：733
+DelayS:  2  On:  1 
+当前工作时间节点：735
+Move:  1 ->  2 UpDown:  1 
+DelayS: 51  On:  2 
+当前工作时间节点：786
+DelayS: 32  On:  2 
+当前工作时间节点：818
+Move:  2 ->  3 UpDown:  1 
+DelayS:  3  On:  3 
+当前工作时间节点：821
+DelayS: 53  On:  3 
+当前工作时间节点：874
+DelayS:  9  On:  3 
+当前工作时间节点：883
+Move:  3 ->  4 UpDown:  1 
+DelayS: 26  On:  4 
+当前工作时间节点：909
+DelayS: 57  On:  4 
+当前工作时间节点：966
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：1031
+Move:  5 ->  6 UpDown:  1 
+DelayS: 83  On:  6 
+当前工作时间节点：1114
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：1179
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：1250
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：1310
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：1315
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：1380
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：1398
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：1463
+DelayS: 18  On:  2 
+当前工作时间节点：1481
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：1546
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：1611
+DelayS: 18  On:  4 
+当前工作时间节点：1629
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：1694
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：1759
+DelayS: 18  On:  6 
+当前工作时间节点：1777
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：1842
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：1890
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：1950
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：1960
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：2025
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：2061
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：2126
+DelayS: 18  On:  2 
+当前工作时间节点：2144
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：2209
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：2274
+DelayS: 18  On:  4 
+当前工作时间节点：2292
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：2357
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：2422
+DelayS: 18  On:  6 
+当前工作时间节点：2440
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：2505
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：2530
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：2590
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：2605
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：2670
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：2724
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：2789
+DelayS: 18  On:  2 
+当前工作时间节点：2807
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：2872
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：2937
+DelayS: 18  On:  4 
+当前工作时间节点：2955
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：3020
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：3085
+DelayS: 18  On:  6 
+当前工作时间节点：3103
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：3168
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：3170
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：3230
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：3250
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：3315
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：3387
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：3452
+DelayS: 18  On:  2 
+当前工作时间节点：3470
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：3535
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：3600
+DelayS: 18  On:  4 
+当前工作时间节点：3618
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：3683
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：3748
+DelayS: 18  On:  6 
+当前工作时间节点：3766
+Move:  6 ->  7 UpDown:  1 
+DelayS: 44  On:  7 
+当前工作时间节点：3810
+DelayS: 21  On:  7 
+当前工作时间节点：3831
+Move:  7 ->  0 UpDown:  1 
+DelayS: 64  On:  0 
+当前工作时间节点：3895
+DelayS: 55  On:  0 
+当前工作时间节点：3950
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：4015
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：4050
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：4115
+DelayS: 18  On:  2 
+当前工作时间节点：4133
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：4198
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：4263
+DelayS: 18  On:  4 
+当前工作时间节点：4281
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：4346
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：4411
+DelayS: 18  On:  6 
+当前工作时间节点：4429
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：4494
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：4530
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：4590
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：4595
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：4660
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：4713
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：4778
+DelayS: 18  On:  2 
+当前工作时间节点：4796
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：4861
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：4926
+DelayS: 18  On:  4 
+当前工作时间节点：4944
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：5009
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：5074
+DelayS: 18  On:  6 
+当前工作时间节点：5092
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：5157
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：5170
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：5230
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：5240
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：5305
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：5376
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：5441
+DelayS: 18  On:  2 
+当前工作时间节点：5459
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：5524
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：5589
+DelayS: 18  On:  4 
+当前工作时间节点：5607
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：5672
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：5737
+DelayS: 18  On:  6 
+当前工作时间节点：5755
+Move:  6 ->  7 UpDown:  1 
+DelayS: 55  On:  7 
+当前工作时间节点：5810
+DelayS: 10  On:  7 
+当前工作时间节点：5820
+Move:  7 ->  0 UpDown:  1 
+DelayS: 65  On:  0 
+当前工作时间节点：5885
+DelayS: 54  On:  0 
+当前工作时间节点：5939
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：6004
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：6039
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：6104
+DelayS: 18  On:  2 
+当前工作时间节点：6122
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：6187
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：6252
+DelayS: 18  On:  4 
+当前工作时间节点：6270
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：6335
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：6400
+DelayS: 18  On:  6 
+当前工作时间节点：6418
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：6483
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：6519
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：6579
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：6584
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：6649
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：6702
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：6767
+DelayS: 18  On:  2 
+当前工作时间节点：6785
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：6850
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：6915
+DelayS: 18  On:  4 
+当前工作时间节点：6933
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：6998
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：7063
+DelayS: 18  On:  6 
+当前工作时间节点：7081
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：7146
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：7159
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：7219
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：7229
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：7294
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：7365
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：7430
+DelayS: 18  On:  2 
+当前工作时间节点：7448
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：7513
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：7578
+DelayS: 18  On:  4 
+当前工作时间节点：7596
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：7661
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：7726
+DelayS: 18  On:  6 
+当前工作时间节点：7744
+Move:  6 ->  7 UpDown:  1 
+DelayS: 55  On:  7 
+当前工作时间节点：7799
+DelayS: 10  On:  7 
+当前工作时间节点：7809
+Move:  7 ->  0 UpDown:  1 
+DelayS: 65  On:  0 
+当前工作时间节点：7874
+DelayS: 54  On:  0 
+当前工作时间节点：7928
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：7993
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：8028
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：8093
+DelayS: 18  On:  2 
+当前工作时间节点：8111
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：8176
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：8241
+DelayS: 18  On:  4 
+当前工作时间节点：8259
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：8324
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：8389
+DelayS: 18  On:  6 
+当前工作时间节点：8407
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：8472
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：8508
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：8568
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：8573
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：8638
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：8691
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：8756
+DelayS: 18  On:  2 
+当前工作时间节点：8774
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：8839
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：8904
+DelayS: 18  On:  4 
+当前工作时间节点：8922
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：8987
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：9052
+DelayS: 18  On:  6 
+当前工作时间节点：9070
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：9135
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：9148
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：9208
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：9218
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：9283
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：9354
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：9419
+DelayS: 18  On:  2 
+当前工作时间节点：9437
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：9502
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：9567
+DelayS: 18  On:  4 
+当前工作时间节点：9585
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：9650
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：9715
+DelayS: 18  On:  6 
+当前工作时间节点：9733
+Move:  6 ->  7 UpDown:  1 
+DelayS: 55  On:  7 
+当前工作时间节点：9788
+DelayS: 10  On:  7 
+当前工作时间节点：9798
+Move:  7 ->  0 UpDown:  1 
+DelayS: 65  On:  0 
+当前工作时间节点：9863
+DelayS: 54  On:  0 
+当前工作时间节点：9917
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：9982
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：10017
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：10082
+DelayS: 18  On:  2 
+当前工作时间节点：10100
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：10165
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：10230
+DelayS: 18  On:  4 
+当前工作时间节点：10248
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：10313
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：10378
+DelayS: 18  On:  6 
+当前工作时间节点：10396
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：10461
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：10497
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：10557
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：10562
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：10627
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：10680
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：10745
+DelayS: 18  On:  2 
+当前工作时间节点：10763
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：10828
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：10893
+DelayS: 18  On:  4 
+当前工作时间节点：10911
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：10976
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：11041
+DelayS: 18  On:  6 
+当前工作时间节点：11059
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：11124
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：11137
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：11197
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：11207
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：11272
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：11343
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：11408
+DelayS: 18  On:  2 
+当前工作时间节点：11426
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：11491
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：11556
+DelayS: 18  On:  4 
+当前工作时间节点：11574
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：11639
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：11704
+DelayS: 18  On:  6 
+当前工作时间节点：11722
+Move:  6 ->  7 UpDown:  1 
+DelayS: 55  On:  7 
+当前工作时间节点：11777
+DelayS: 10  On:  7 
+当前工作时间节点：11787
+Move:  7 ->  0 UpDown:  1 
+DelayS: 65  On:  0 
+当前工作时间节点：11852
+DelayS: 54  On:  0 
+当前工作时间节点：11906
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：11971
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：12006
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：12071
+DelayS: 18  On:  2 
+当前工作时间节点：12089
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：12154
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：12219
+DelayS: 18  On:  4 
+当前工作时间节点：12237
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：12302
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：12367
+DelayS: 18  On:  6 
+当前工作时间节点：12385
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：12450
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：12486
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：12546
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：12551
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：12616
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：12669
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：12734
+DelayS: 18  On:  2 
+当前工作时间节点：12752
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：12817
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：12882
+DelayS: 18  On:  4 
+当前工作时间节点：12900
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：12965
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：13030
+DelayS: 18  On:  6 
+当前工作时间节点：13048
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：13113
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：13126
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：13186
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：13196
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：13261
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：13332
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：13397
+DelayS: 18  On:  2 
+当前工作时间节点：13415
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：13480
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：13545
+DelayS: 18  On:  4 
+当前工作时间节点：13563
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：13628
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：13693
+DelayS: 18  On:  6 
+当前工作时间节点：13711
+Move:  6 ->  7 UpDown:  1 
+DelayS: 55  On:  7 
+当前工作时间节点：13766
+DelayS: 10  On:  7 
+当前工作时间节点：13776
+Move:  7 ->  0 UpDown:  1 
+DelayS: 65  On:  0 
+当前工作时间节点：13841
+DelayS: 54  On:  0 
+当前工作时间节点：13895
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：13960
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：13995
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：14060
+DelayS: 18  On:  2 
+当前工作时间节点：14078
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：14143
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：14208
+DelayS: 18  On:  4 
+当前工作时间节点：14226
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：14291
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：14356
+DelayS: 18  On:  6 
+当前工作时间节点：14374
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：14439
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：14475
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：14535
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：14540
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：14605
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：14658
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：14723
+DelayS: 18  On:  2 
+当前工作时间节点：14741
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：14806
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：14871
+DelayS: 18  On:  4 
+当前工作时间节点：14889
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：14954
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：15019
+DelayS: 18  On:  6 
+当前工作时间节点：15037
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：15102
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：15115
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：15175
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：15185
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：15250
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：15321
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：15386
+DelayS: 18  On:  2 
+当前工作时间节点：15404
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：15469
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：15534
+DelayS: 18  On:  4 
+当前工作时间节点：15552
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：15617
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：15682
+DelayS: 18  On:  6 
+当前工作时间节点：15700
+Move:  6 ->  7 UpDown:  1 
+DelayS: 55  On:  7 
+当前工作时间节点：15755
+DelayS: 10  On:  7 
+当前工作时间节点：15765
+Move:  7 ->  0 UpDown:  1 
+DelayS: 65  On:  0 
+当前工作时间节点：15830
+DelayS: 54  On:  0 
+当前工作时间节点：15884
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：15949
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：15984
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：16049
+DelayS: 18  On:  2 
+当前工作时间节点：16067
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：16132
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：16197
+DelayS: 18  On:  4 
+当前工作时间节点：16215
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：16280
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：16345
+DelayS: 18  On:  6 
+当前工作时间节点：16363
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：16428
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：16464
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：16524
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：16529
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：16594
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：16647
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：16712
+DelayS: 18  On:  2 
+当前工作时间节点：16730
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：16795
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：16860
+DelayS: 18  On:  4 
+当前工作时间节点：16878
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：16943
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：17008
+DelayS: 18  On:  6 
+当前工作时间节点：17026
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：17091
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：17104
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：17164
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：17174
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：17239
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：17310
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：17375
+DelayS: 18  On:  2 
+当前工作时间节点：17393
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：17458
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：17523
+DelayS: 18  On:  4 
+当前工作时间节点：17541
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：17606
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：17671
+DelayS: 18  On:  6 
+当前工作时间节点：17689
+Move:  6 ->  7 UpDown:  1 
+DelayS: 55  On:  7 
+当前工作时间节点：17744
+DelayS: 10  On:  7 
+当前工作时间节点：17754
+Move:  7 ->  0 UpDown:  1 
+DelayS: 65  On:  0 
+当前工作时间节点：17819
+DelayS: 54  On:  0 
+当前工作时间节点：17873
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：17938
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：17973
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：18038
+DelayS: 18  On:  2 
+当前工作时间节点：18056
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：18121
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：18186
+DelayS: 18  On:  4 
+当前工作时间节点：18204
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：18269
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：18334
+DelayS: 18  On:  6 
+当前工作时间节点：18352
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：18417
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：18453
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：18513
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：18518
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：18583
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：18636
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：18701
+DelayS: 18  On:  2 
+当前工作时间节点：18719
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：18784
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：18849
+DelayS: 18  On:  4 
+当前工作时间节点：18867
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：18932
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：18997
+DelayS: 18  On:  6 
+当前工作时间节点：19015
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：19080
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：19093
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：19153
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：19163
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：19228
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：19299
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：19364
+DelayS: 18  On:  2 
+当前工作时间节点：19382
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：19447
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：19512
+DelayS: 18  On:  4 
+当前工作时间节点：19530
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：19595
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：19660
+DelayS: 18  On:  6 
+当前工作时间节点：19678
+Move:  6 ->  7 UpDown:  1 
+DelayS: 55  On:  7 
+当前工作时间节点：19733
+DelayS: 10  On:  7 
+当前工作时间节点：19743
+Move:  7 ->  0 UpDown:  1 
+DelayS: 65  On:  0 
+当前工作时间节点：19808
+DelayS: 54  On:  0 
+当前工作时间节点：19862
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：19927
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：19962
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：20027
+DelayS: 18  On:  2 
+当前工作时间节点：20045
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：20110
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：20175
+DelayS: 18  On:  4 
+当前工作时间节点：20193
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：20258
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：20323
+DelayS: 18  On:  6 
+当前工作时间节点：20341
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：20406
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：20442
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：20502
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：20507
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：20572
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：20625
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：20690
+DelayS: 18  On:  2 
+当前工作时间节点：20708
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：20773
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：20838
+DelayS: 18  On:  4 
+当前工作时间节点：20856
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：20921
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：20986
+DelayS: 18  On:  6 
+当前工作时间节点：21004
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：21069
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：21082
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：21142
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：21152
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：21217
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：21288
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：21353
+DelayS: 18  On:  2 
+当前工作时间节点：21371
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：21436
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：21501
+DelayS: 18  On:  4 
+当前工作时间节点：21519
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：21584
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：21649
+DelayS: 18  On:  6 
+当前工作时间节点：21667
+Move:  6 ->  7 UpDown:  1 
+DelayS: 55  On:  7 
+当前工作时间节点：21722
+DelayS: 10  On:  7 
+当前工作时间节点：21732
+Move:  7 ->  0 UpDown:  1 
+DelayS: 65  On:  0 
+当前工作时间节点：21797
+DelayS: 54  On:  0 
+当前工作时间节点：21851
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：21916
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：21951
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：22016
+DelayS: 18  On:  2 
+当前工作时间节点：22034
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：22099
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：22164
+DelayS: 18  On:  4 
+当前工作时间节点：22182
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：22247
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：22312
+DelayS: 18  On:  6 
+当前工作时间节点：22330
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：22395
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：22431
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：22491
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：22496
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：22561
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：22614
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：22679
+DelayS: 18  On:  2 
+当前工作时间节点：22697
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：22762
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：22827
+DelayS: 18  On:  4 
+当前工作时间节点：22845
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：22910
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：22975
+DelayS: 18  On:  6 
+当前工作时间节点：22993
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：23058
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：23071
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：23131
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：23141
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：23206
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：23277
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：23342
+DelayS: 18  On:  2 
+当前工作时间节点：23360
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：23425
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：23490
+DelayS: 18  On:  4 
+当前工作时间节点：23508
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：23573
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：23638
+DelayS: 18  On:  6 
+当前工作时间节点：23656
+Move:  6 ->  7 UpDown:  1 
+DelayS: 55  On:  7 
+当前工作时间节点：23711
+DelayS: 10  On:  7 
+当前工作时间节点：23721
+Move:  7 ->  0 UpDown:  1 
+DelayS: 65  On:  0 
+当前工作时间节点：23786
+DelayS: 54  On:  0 
+当前工作时间节点：23840
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：23905
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：23940
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：24005
+DelayS: 18  On:  2 
+当前工作时间节点：24023
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：24088
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：24153
+DelayS: 18  On:  4 
+当前工作时间节点：24171
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：24236
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：24301
+DelayS: 18  On:  6 
+当前工作时间节点：24319
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：24384
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：24420
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：24480
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：24485
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：24550
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：24603
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：24668
+DelayS: 18  On:  2 
+当前工作时间节点：24686
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：24751
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：24816
+DelayS: 18  On:  4 
+当前工作时间节点：24834
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：24899
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：24964
+DelayS: 18  On:  6 
+当前工作时间节点：24982
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：25047
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：25060
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：25120
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：25130
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：25195
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：25266
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：25331
+DelayS: 18  On:  2 
+当前工作时间节点：25349
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：25414
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：25479
+DelayS: 18  On:  4 
+当前工作时间节点：25497
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：25562
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：25627
+DelayS: 18  On:  6 
+当前工作时间节点：25645
+Move:  6 ->  7 UpDown:  1 
+DelayS: 55  On:  7 
+当前工作时间节点：25700
+DelayS: 10  On:  7 
+当前工作时间节点：25710
+Move:  7 ->  0 UpDown:  1 
+DelayS: 65  On:  0 
+当前工作时间节点：25775
+DelayS: 54  On:  0 
+当前工作时间节点：25829
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：25894
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：25929
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：25994
+DelayS: 18  On:  2 
+当前工作时间节点：26012
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：26077
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：26142
+DelayS: 18  On:  4 
+当前工作时间节点：26160
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：26225
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：26290
+DelayS: 18  On:  6 
+当前工作时间节点：26308
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：26373
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：26409
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：26469
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：26474
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：26539
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：26592
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：26657
+DelayS: 18  On:  2 
+当前工作时间节点：26675
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：26740
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：26805
+DelayS: 18  On:  4 
+当前工作时间节点：26823
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：26888
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：26953
+DelayS: 18  On:  6 
+当前工作时间节点：26971
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：27036
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：27049
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：27109
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：27119
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：27184
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：27255
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：27320
+DelayS: 18  On:  2 
+当前工作时间节点：27338
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：27403
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：27468
+DelayS: 18  On:  4 
+当前工作时间节点：27486
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：27551
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：27616
+DelayS: 18  On:  6 
+当前工作时间节点：27634
+Move:  6 ->  7 UpDown:  1 
+DelayS: 55  On:  7 
+当前工作时间节点：27689
+DelayS: 10  On:  7 
+当前工作时间节点：27699
+Move:  7 ->  0 UpDown:  1 
+DelayS: 65  On:  0 
+当前工作时间节点：27764
+DelayS: 54  On:  0 
+当前工作时间节点：27818
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：27883
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：27918
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：27983
+DelayS: 18  On:  2 
+当前工作时间节点：28001
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：28066
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：28131
+DelayS: 18  On:  4 
+当前工作时间节点：28149
+Move:  4 ->  5 UpDown:  1 
+DelayS: 65  On:  5 
+当前工作时间节点：28214
+Move:  5 ->  6 UpDown:  1 
+DelayS: 65  On:  6 
+当前工作时间节点：28279
+DelayS: 18  On:  6 
+当前工作时间节点：28297
+Move:  6 ->  7 UpDown:  1 
+DelayS: 65  On:  7 
+当前工作时间节点：28362
+Move:  7 ->  0 UpDown:  1 
+当前工作时间节点：28398
+Move:  0 ->  0 UpDown:  1 
+DelayS: 60  On:  0 
+当前工作时间节点：28458
+Move:  0 ->  0 UpDown:  1 
+当前工作时间节点：28463
+Move:  0 ->  1 UpDown:  1 
+DelayS: 65  On:  1 
+当前工作时间节点：28528
+Move:  1 ->  0 UpDown:  1 
+当前工作时间节点：28581
+Move:  0 ->  2 UpDown:  1 
+DelayS: 65  On:  2 
+当前工作时间节点：28646
+DelayS: 18  On:  2 
+当前工作时间节点：28664
+Move:  2 ->  3 UpDown:  1 
+DelayS: 65  On:  3 
+当前工作时间节点：28729
+Move:  3 ->  4 UpDown:  1 
+DelayS: 65  On:  4 
+当前工作时间节点：28794
+DelayS: 18  On:  4 
